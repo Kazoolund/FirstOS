@@ -1,0 +1,1 @@
+jmp [0x123] ;Comment
